@@ -1,52 +1,27 @@
-# Challenge - Olio App 🌱
+# Expo Sample - Create your App using Expo to code React Native
 
-Evaluate general front end development skills and capabilities.
-
-### Summary
-
-- [Architecture](#architecture)
-- [Built With](#built-with)
-- [Installation](#installation)
-- [Comments](#comments)
-- [Author](#author)
-
-## Architecture
-
-    .
-    ├── ...
-    ├──
-    │   ├──         #
-    │   ├──         #
-    │   ├──         #
-    │   │   └──
-    │   ├──
-    │   │   └──
-    │   └──
-    └── ...
-
-## Built With
-
-- [React Native](https://reactnative.dev/)
-- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
-
-## Installation
-
-1 - First of all clone this repo to your local machine using:
+1. Create your app using:
 
 ```shell
-git clone https://github.com/anaarezo/olio-app-challenge.git
+$ npx create-expo-app my-app
 ```
 
-# Points of Improvement
+2. Run your code if you are using:
 
-## Author
+- Android
 
-Ana Laura Arezo
+```shell
+$ npm run android
+```
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaarezo//)](https://www.linkedin.com/in/anaarezo/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=447423393211&text=Hello!)](https://api.whatsapp.com/send?phone=447423393211&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.arezo@gmail.com)](mailto:laura.arezo@gmail.com)
+- iOS
 
-💡 Feel free to contact me if you have difficulties running the project or to clarify informations.
+```shell
+$ npm run ios
+```
 
-#### 😃 Thank you Olio!
+- Web
+
+```shell
+$ npm run web
+```
